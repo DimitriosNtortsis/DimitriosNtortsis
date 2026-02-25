@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-#I'm Dimitris, a financial analyst based in Greece.
-#My goal is to create something unique.
-#So stay tooned for my new chapter!
+-I'm Dimitris, a financial analyst based in Greece.
+-My goal is to create something unique.
+-So stay tooned for my new chapter!
 <!--
 **DimitriosNtortsis/DimitriosNtortsis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
