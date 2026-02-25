@@ -5,6 +5,7 @@
 <p align="left">
 <a href="https://instagram.com/dimitris_ntortsis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dimitris_ntortsis" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@dimitrisNtortsis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dimitrisntortsis" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dimitrios-ntortsis-7639032bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="@dimitrisntortsis" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
