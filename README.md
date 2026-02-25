@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dimitris 👨🏻‍💼</h1>
-<h3 align="center">A Financial Analyst, passionate about modeling and valuations. Ready to start my coding jurney and create something special.</h3>
+<h3 align="center">A Financial Analyst, passionate about modeling and valuations, ready to start my coding journey and create something special.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
