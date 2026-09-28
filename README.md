@@ -20,7 +20,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
   </a>
   <a href="https://scipy.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2012_logo.svg" alt="scipy" width="40" height="40"/>
+    <img src="https://github.com/scipy/scipy.org/blob/main/static/images/logo.svg" alt="scipy" width="40" height="40"/>
   </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
